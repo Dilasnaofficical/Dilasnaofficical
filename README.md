@@ -13,5 +13,5 @@
 </div>
 
 <br/><div align="center">
-<a href="https://github.com/Dilasnaofficical"><img src="https://metrics.lecoq.io/tinurad?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang" alt="Activities"></a>
+<a href="https://github.com/Dilasnaofficical"><img src="https://metrics.lecoq.io/tinurad?template=Dilasnaofficical&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang" alt="Activities"></a>
 </div>

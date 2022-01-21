@@ -12,6 +12,4 @@
 <a href="https://github.com/Dilasnaofficical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilasnaofficical&bg_color=0%2C000000%2C040354&text_color=D3D3D3&icon_color=105bde&line_height=20&title_color=98edc4&layout=compact" alt="Most Used Languages"></a>
 </div>
 
-<br/><div align="center">
-<a href="https://github.com/Dilasnaofficical"><img src="https://metrics.lecoq.io/tinurad?template=Dilasnaofficical&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang" alt="Activities"></a>
-</div>
+
